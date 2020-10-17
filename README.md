@@ -22,4 +22,4 @@ python chatbot.py
 ```
 # Programın ekran görüntüsü:
 
-![](C:\Users\aysegul.hatipoglu\Desktop\pynar.png)
+![Pynar]()
