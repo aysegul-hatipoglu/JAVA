@@ -18,8 +18,8 @@ pip3 install pyqt5
 ```
 Programı çalıştırabilmek için indirdiğiniz dosyada ana dizin içerisinde komut satırını (CMD) başlatıp aşağıdaki kodu çalıştırmanız yeterlidir:
 ```
-python chatbot.py
+python proje.py
 ```
 # Programın ekran görüntüsü:
 
-![Pynar]()
+![Pynar](https://github.com/ttbilgin/PynarSolmenu/blob/master/pynar.PNG)
